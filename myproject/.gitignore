@@ -1,0 +1,34 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Django SQLite database file
+db.sqlite3
+
+# virtual environment
+venv/
+.env/
+
+# .env files should not be tracked
+.env
+
+# Media folder (uploads, images, etc)
+media/
+
+# Static files (collectstatic)
+static/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Local environment files
+*.env
